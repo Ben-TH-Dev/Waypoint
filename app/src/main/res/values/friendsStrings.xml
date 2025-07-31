@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remove_friend_option">Remove friend</string>
+    <string name="mutual_projects">Mutual Projects</string>
+    <string name="not_involved_mutual_projects">You\'re not involved in any projects with this user yet.</string>
+</resources>

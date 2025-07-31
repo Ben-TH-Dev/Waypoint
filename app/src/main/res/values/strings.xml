@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Waypoint</string>
+    <string name="pref_location_sharing">location_sharing</string>
+    <string name="pref_active_project_id">active_project_id</string>
+    <string name="search">Search chats\n</string>
+    <string name="add_project_member">Add Project Member</string>
+    <string name="search_friends">Search Friends</string>
+    <string name="which_friend">Select a friend to add to the project:</string>
+    <string name="no_friends">No friends available to add.</string>
+    <string name="adding">Adding...</string>
+    <string name="add_to_project">Add to Project</string>
+</resources>

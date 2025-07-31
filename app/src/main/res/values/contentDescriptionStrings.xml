@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_friend_profile">Exit Friend Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="mail_button">Mail Button</string>
+    <string name="call_button">Call Button</string>
+    <string name="chat_button">Chat Button</string>
+    <string name="back_content_description">Back</string>
+    <string name="label_content_description">Search</string>
+</resources>
